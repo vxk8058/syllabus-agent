@@ -7,3 +7,6 @@ venv/
 
 # Ignore API keys
 .env
+
+# macOS system files
+.DS_Store

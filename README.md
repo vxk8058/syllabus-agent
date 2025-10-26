@@ -19,22 +19,22 @@ AI-powered study planner that extracts topics from a syllabus PDF or manual inpu
 
 ## Setup & Installation
 1. Clone the repo
-git clone https://github.com/vxk8058/syllabus-agent.git
-cd syllabus-agent
+- git clone https://github.com/vxk8058/syllabus-agent.git
+- cd syllabus-agent
 
 2. Create a Virtual Environment
-python3 -m venv venv
-source venv/bin/activate
+- python3 -m venv venv
+- source venv/bin/activate
 
 3. Install Dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 4. Add Environment Variables
-OPENAI_API_KEY=your_openai_api_key
-YOUTUBE_API_KEY=your_youtube_api_key
+- OPENAI_API_KEY=your_openai_api_key
+- YOUTUBE_API_KEY=your_youtube_api_key
 
 5. Run the program
-python main.py
+- python main.py
 
 ### You will be promted to:
 - Upload a PDF Syllabus or enter topics manually

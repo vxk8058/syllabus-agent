@@ -1,0 +1,7 @@
+PyPDF2
+googlesearch-python
+python-dotenv
+openai
+google-api-python-client
+isodate
+crewai
